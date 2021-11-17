@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 this is my profile, welcome. I'm learning python and javaScript. 
-I know, html and css3 and librarys like bootstraps, and more.
+I know html and css3 and librarys like bootstraps, and more.
 And I'm learning too, ReactJs in the side to Front-end.
-And i'm working with nodeJs in the side to Back-end; and i want to learn will to do with  Django.
+And i'm working with nodeJs in the side to Back-end and i want to learn to do it with  Django.
 
 Well, i have work! 
 
