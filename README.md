@@ -2,6 +2,8 @@
 
 this is my profile, welcome. I'm learning python and javaScript. 
 
+I'm a developer Jr and:
+
 I know html and css3 and librarys like bootstraps, and more.
 
 And I'm learning too, ReactJs in the side to Front-end.
