@@ -1,20 +1,29 @@
 ### Hi there 👋
 
-this is my profile, welcome. I'm learning python and javaScript. 
+Hi my name is Tomas, i'm Developer Web Jr
 
-I'm a developer Jr and:
+My knowledger in the frontend are about: 
 
-I know html and css3 and librarys like bootstraps, and more.
+- Html5.
+- CSS3.
+- Javascript Vanilla.
+- React JS.
+- Material Ui.
+- Tailwind CSS.
+- Bootstrap.
 
-And I'm learning too, ReactJs in the side to Front-end.
+My knowledger in the backend are about: 
 
-And i'm working with nodeJs in the side to Back-end and i want to learn to do it with  Django.
+- Node Js -> Express JS.
+- Motoko (Dfinity).
+- Flask (python) -> just REST API too.
 
-Well, i have work! 
+Every day learning more in this world called Tech...
 
-Good bye, developers ~
+I am a person with  methodology of learning autodidact, for that i know a little of much, but my speciality is Javascript in frontend and backend with the environment NodeJS.
 
-Enjoy my code ~...
+
+
 
 <!--
 **RyuTsuki08/RyuTsuki08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
