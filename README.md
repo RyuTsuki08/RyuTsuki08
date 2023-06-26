@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi my name is Tomas, i'm Developer Web Jr<br><br>My knowledger in the frontend are about: <br><br>- Html5.<br>- CSS3.<br>- Javascript Vanilla.<br>- React JS.<br>- Material Ui.<br>- Tailwind CSS.<br>- Bootstrap.<br><br>My knowledger in the backend are about: <br><br>- Node Js -> Express JS.<br>- Motoko (Dfinity - Internet Computer).<br>- Flask (python) -> just REST API too.<br><br>Every day learning more in this world called Tech...<br><br>I am a person with  methodology of learning autodidact, for that i know a little of much, but my speciality is Javascript in frontend and backend with the environment NodeJS.<br>
+Hi my name is Tomas, i'm Developer Web Jr<br><br>My knowledger in the frontend are about: <br><br>- Html5.<br>- CSS3.<br>- Javascript Vanilla.<br>- React JS.<br>- Material Ui.<br>- Tailwind CSS.<br>- Bootstrap.<br><br>My knowledger in the backend are about: <br><br>- Node Js -> Express JS.<br>- Motoko (Dfinity - Internet Computer).<br>- Flask (python) -> just REST API too.<br> <br>- PHP -> LARAVEL.<br> <br>Every day learning more in this world called Tech...<br><br>I am a person with  methodology of learning autodidact, for that i know a little of much, but my speciality is Javascript in frontend and backend with the environment NodeJS.<br>
 
 
 ## 🌐 Socials:
